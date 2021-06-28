@@ -1,0 +1,68 @@
+[
+  {
+    "id": 0,
+    "name": "Sakshi",
+    "age": 21,
+    "course": "B.Tech"
+  },
+  {
+    "id": 1,
+    "name": "User1",
+    "age": 24,
+    "course": "B.Tech"
+  },
+  {
+    "id": 2,
+    "name": "User2",
+    "age": 20,
+    "course": "MBA"
+  },
+  {
+    "id": 3,
+    "name": "User3",
+    "age": 17,
+    "course": "B.Tech"
+  },
+  {
+    "id": 4,
+    "name": "User4",
+    "age": 20,
+    "course": "M.Tech"
+  },
+  {
+    "id": 5,
+    "name": "User5",
+    "age": 28,
+    "course": "Phd"
+  },
+  {
+    "id": 6,
+    "name": "User6",
+    "age": 28,
+    "course": "Phd"
+  },
+  {
+    "id": 7,
+    "name": "User7",
+    "age": 30,
+    "course": "MBBS"
+  },
+  {
+    "id": 8,
+    "name": "User8",
+    "age": 17,
+    "course": "B.com"
+  },
+  {
+    "id": 9,
+    "name": "User9",
+    "age": 20,
+    "course": "Phd"
+  },
+  {
+    "id": 10,
+    "name": "User10",
+    "age": 32,
+    "course": "Phd"
+  }
+]
